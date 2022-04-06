@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ZingMP3</string>
+    <string name="affirmation1">Phía Sau Một Cô Gái</string>
+    <string name="affirmation2">Cho Em Gần Anh Thêm Chút Nữa</string>
+    <string name="affirmation3">Điều Anh Biết.</string>
+    <string name="affirmation4">Yêu Một Người Vô Tâm</string>
+    <string name="masage1">Soobin Hoàng Sơn</string>
+    <string name="masage2">Hương Tràm</string>
+    <string name="masage3">Chi Dân</string>
+    <string name="masage4">Bảo Anh</string>
+    <string name="number1">01</string>
+    <string name="number2">02</string>
+    <string name="number3">03</string>
+    <string name="number4">04</string>
+
+</resources>
